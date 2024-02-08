@@ -5,15 +5,16 @@
 
 ```javascript
 const AliRaza = {
-    code: ["PHP", "JAVA", "Javascript"],
-    technologies: {
-        backEnd: {
-            js: [
-                "Laravel",
-                "CakePhp",
-                "Spring",
-                "Node"
-            ],
+        code: ["PHP", "JAVA", "Javascript"],
+        technologies: {
+            backEnd: {
+                [
+                    "Laravel",
+                    "CakePhp",
+                    "Spring",
+                    "Node"
+                ]
+            },
             frontEnd: {
                 [
                     "Laravel Blade",
