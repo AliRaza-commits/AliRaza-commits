@@ -1,4 +1,4 @@
-# 👋 I'm Syed Ali R. Jaffery!
+# 👋 I'm Syed Ali R. Jaffery
 
 ### 👀 I’m interested in Full Stack Development
 ![](/hello.gif)
