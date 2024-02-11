@@ -32,8 +32,5 @@ const AliRaza = {
 };
 ```
 
-📫 **You can reach me :**
-
-[![Linkedin: ali-raza-33b24323](https://img.shields.io/badge/-Ali%20Raza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-raza-33b24323/)](https://www.linkedin.com/in/ali-raza-33b24323/)
-
-
+📫 **You can reach me**
+[![Linkedin: ali-raza-33b24323](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-raza-33b24323/)](https://www.linkedin.com/in/ali-raza-33b24323/) [![Portfolio: ali-raza-33b24323](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logoColor=green&link=https://aliraza-commits.github.io/)](https://aliraza-commits.github.io/)
