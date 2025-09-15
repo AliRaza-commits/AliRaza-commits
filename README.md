@@ -3,8 +3,6 @@
 ### 👀 I’m interested in Full Stack Development
 ![](/hello.gif)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliRaza-commits&color=blue)
-
 ```javascript
 const AliRaza = {
         code: ["PHP", "JAVA", "Javascript"],
