@@ -10,8 +10,7 @@ const AliRaza = {
             backEnd: {
                 [
                     "Laravel",
-                    "CakePhp",
-                    "Spring",
+                    "Spring Boot",
                     "Node"
                 ]
             },
